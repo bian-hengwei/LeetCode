@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode.cn id=3 lang=java
+ *
+ * [3] 无重复字符的最长子串
+ */
+
+// @lc code=start
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         // max length, current start pointer
@@ -17,6 +24,7 @@ class Solution {
 }
 
 // Map version (self written), same time complexity but slower with hash map
+/*
 import java.util.HashMap;
 import java.util.Map;
 
@@ -36,3 +44,6 @@ class Solution {
         return max_len < cur_len ? cur_len : max_len;
     }
 }
+*/
+// @lc code=end
+
