@@ -8,6 +8,7 @@ if __name__ == '__main__':
     all_files = os.listdir('./docs')
     for file in sorted(all_files, key=lambda _: int(re.search('^(\d+)\..*\.md$', _)[1])):
         content += '[{}](./docs/{})  \n'.format(file[:-3], file)
+        print('[{}](./docs/{})  \n'.format(file[:-3], file))
 
     with open('./README.md', 'w', encoding='utf-8') as f:
         f.write(content)
