@@ -19,6 +19,7 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         if (head->next == nullptr) return nullptr;
+        // dummy to cover case that del head
         ListNode* dummy = new ListNode(0, head);
         ListNode* par = dummy;
         ListNode* cur = head;
@@ -26,12 +27,17 @@ public:
         while (cur != nullptr) {
             cur = cur->next;
             if (n == counter) {
+                // inc par and cur concurrently
                 par = par->next;
             } else {
+                // while not reach n apart
+                // inc counter
                 counter ++;
             }
         }
+        // delete
         par->next = par->next->next;
+        // return new head
         return dummy->next;
 
     }

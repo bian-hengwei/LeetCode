@@ -6,6 +6,7 @@
 # @lc code=start
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
+        # {dig : letters}
         nums_dict = {
                     '2' : 'abc', 
                     '3' : 'def', 
@@ -16,11 +17,15 @@ class Solution:
                     '8' : 'tuv', 
                     '9' : 'wxyz'
                     }
+        # init result queue
         result = []
         for dig in digits:
+            # append letters for first digit
             if result == []:
                 result = [_ for _ in nums_dict[dig]]
             else:
+                # for each current combination
+                # append new letters
                 length = len(result)
                 for _ in range(length):
                     comb = result.pop(0)
