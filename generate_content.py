@@ -3,7 +3,7 @@ import re
 
 # 自动生成目录页
 if __name__ == '__main__':
-    LANGUAGES = {'cpp': 'C++', 'java': 'Java', 'py': 'Python'}
+    LANGUAGES = {'cpp': 'C++', 'java': 'Java', 'py': 'Python', 'js': 'JavaScript'}
     content = '# LeetCode\n|序号|标题|代码|\n|-|-|-|\n'
 
     all_files = os.listdir('./docs')
