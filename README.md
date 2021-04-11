@@ -1,4 +1,5 @@
 # LeetCode
+已完成17题  
 |序号|标题|代码|
 |-|-|-|
 |1|[两数之和](./docs/1.两数之和.md)|[Python](./codes/1.两数之和.py)|
@@ -23,3 +24,4 @@
 |33|[搜索旋转排列数组](./docs/33.搜索旋转排列数组.md)|[JavaScript](./codes/33.搜索旋转排序数组.js)|
 |70|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
 |END|[OF](./REWRITE.md)|README|
+:trollface:
