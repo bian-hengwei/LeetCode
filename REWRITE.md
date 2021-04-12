@@ -8,3 +8,4 @@
 |-|-|[Python](./codes/10.正则表达式匹配_3.py)|
 |15|[三数之和](./docs/15.三数之和.md)|[Java](./codes/15.三数之和.java)|
 |22|[括号生成](./docs/22.括号生成.md)|[JavaScript](./codes/22.括号生成.js)|
+|32|[最长有效括号](./docs/32.最长有效括号.md)|[Python](./codes/32.最长有效括号.py)|

@@ -1,5 +1,5 @@
 # LeetCode
-已完成17题  
+已完成18题  
 |序号|标题|代码|
 |-|-|-|
 |1|[两数之和](./docs/1.两数之和.md)|[Python](./codes/1.两数之和.py)|
@@ -21,6 +21,7 @@
 |22|[括号生成](./docs/22.括号生成.md)|[JavaScript](./codes/22.括号生成.js)|
 |23|[合并k个升序链表](./docs/23.合并k个升序链表.md)|[Java](./codes/23.合并k个升序链表.java)|
 |31|[下一个排列](./docs/31.下一个排列.md)|[JavaScript](./codes/31.下一个排列.js)|
+|32|[最长有效括号](./docs/32.最长有效括号.md)|[Python](./codes/32.最长有效括号.py)|
 |33|[搜索旋转排列数组](./docs/33.搜索旋转排列数组.md)|[JavaScript](./codes/33.搜索旋转排序数组.js)|
 |70|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
 |END|[OF](./REWRITE.md)|README|
