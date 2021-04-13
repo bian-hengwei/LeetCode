@@ -1,7 +1,7 @@
 # LeetCode
 已完成20题  
 |序号|标题|代码|
-|:-:|:-|:-:|
+|:-:|:-:|:-:|
 |1|[两数之和](./docs/1.两数之和.md)|[Python](./codes/1.两数之和.py)|
 |2|[两数相加](./docs/2.两数相加.md)|[C++](./codes/2.两数相加.cpp)|
 |3|[无重复字符的最长子串](./docs/3.无重复字符的最长子串.md)|[Java](./codes/3.无重复字符的最长子串_1.java)|
@@ -27,4 +27,5 @@
 |42|[接雨水](./docs/42.接雨水.md)|[Java](./codes/42.接雨水_1.java)|
 |-|-|[Java](./codes/42.接雨水_2.java)|
 |70|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
-|:trollface:|[:trollface:](./REWRITE.md)|:trollface:|
+  
+[:trollface:](./REWRITE.md)
