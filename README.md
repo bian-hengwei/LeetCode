@@ -1,5 +1,5 @@
 # LeetCode
-已完成21题  
+已完成22题  
 |序号|标题|代码|
 |:-:|:-:|:-:|
 |1|[两数之和](./docs/1.两数之和.md)|[Python](./codes/1.两数之和.py)|
@@ -27,6 +27,7 @@
 |39|[组合总和](./docs/39.组合总和.md)|[Java](./codes/39.组合总和.java)|
 |42|[接雨水](./docs/42.接雨水.md)|[Java](./codes/42.接雨水_1.java)|
 |-|-|[Java](./codes/42.接雨水_2.java)|
+|46|[全排列](./docs/46.全排列.md)|[Python](./codes/46.全排列.py)|
 |70|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
   
 [:trollface:](./REWRITE.md)
