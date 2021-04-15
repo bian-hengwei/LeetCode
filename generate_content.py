@@ -10,10 +10,13 @@ if __name__ == '__main__':
     content = '# LeetCode\n已完成{}题  \n|序号|标题|代码|\n|:-:|:-:|:-:|\n'.format(len(all_markdowns))
     for file in sorted(all_markdowns, key=lambda _: int(re.search('^(\d+)\..*\.md$', _)[1])):
         ord_title = file.split('.')
+        title = ord_title[1]
+        if (len(title) > 10):
+            title = title[:9] + '...'
         sols = sorted([sol for sol in all_solutions if sol.split('.')[0] == ord_title[0]])
         print(sols)
         for i, sol in enumerate(sols):
-            content += '|-|-|'if i != 0 else '|{}|[{}](./docs/{})|'.format(ord_title[0], ord_title[1], file)
+            content += '|-|-|'if i != 0 else '|{}|[{}](./docs/{})|'.format(ord_title[0], title, file)
             content += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
     content += '  \n[:trollface:](./REWRITE.md)'
 
