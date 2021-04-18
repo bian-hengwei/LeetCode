@@ -11,3 +11,5 @@
 |32|[最长有效括号](./docs/32.最长有效括号.md)|[Python](./codes/32.最长有效括号.py)|
 |42|[接雨水](./docs/42.接雨水.md)|[Java](./codes/42.接雨水_1.java)|
 |-|-|[Java](./codes/42.接雨水_2.java)|
+|53|[最大子序和](./docs/53.最大子序和.md)|[JavaScript](./codes/53.最大子序和_1.js)|
+|-|-|[JavaScript](./codes/53.最大子序和_2.js)|

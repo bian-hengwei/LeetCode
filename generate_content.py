@@ -18,7 +18,7 @@ if __name__ == '__main__':
         for i, sol in enumerate(sols):
             content += '|-|-|'if i != 0 else '|{}|[{}](./docs/{})|'.format(ord_title[0], title, file)
             content += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
-    content += '  \n[:trollface:](./REWRITE.md)'
+    content += '  \n[:trollface:](./REWRITE.md)\n'
 
     with open('./README.md', 'w', encoding='utf-8') as f:
         f.write(content)
