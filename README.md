@@ -1,5 +1,5 @@
 # LeetCode
-已完成26题  
+已完成27题  
 |序号|标题|代码|
 |:-:|:-:|:-:|
 |[1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](./docs/1.两数之和.md)|[Python](./codes/1.两数之和.py)|
@@ -33,6 +33,7 @@
 |[53](https://leetcode-cn.com/problems/maximum-subarray/description/)|[最大子序和](./docs/53.最大子序和.md)|[JavaScript](./codes/53.最大子序和_1.js)|
 |-|-|[JavaScript](./codes/53.最大子序和_2.js)|
 |[55](https://leetcode-cn.com/problems/jump-game/description/)|[跳跃游戏](./docs/55.跳跃游戏.md)|[JavaScript](./codes/55.跳跃游戏.js)|
+|[56](https://leetcode-cn.com/problems/merge-intervals/description/)|[合并区间](./docs/56.合并区间.md)|[JavaScript](./codes/56.合并区间.js)|
 |[70](https://leetcode-cn.com/problems/climbing-stairs/description/)|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
   
 [:trollface:](./REWRITE.md)

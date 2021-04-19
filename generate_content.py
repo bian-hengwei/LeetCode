@@ -25,16 +25,23 @@ if __name__ == '__main__':
         link = link[link.find('https://')::].strip()
         print(link)
 
+        # get title
         ord_title = file.split('.')
         title = ord_title[1]
-        if (len(title) > 10):
-            title = title[:9] + '...'
+        # trim title
+        if (len(title) > 10): title = title[:9] + '...'
+
+        # get solution sorted according to solution index
         sols = sorted([sol for sol in all_solutions if sol.split('.')[0] == ord_title[0]])
         print(sols)
+        # add lines
         for i, sol in enumerate(sols):
             content += '|-|-|' if i != 0 else '|[{}]({})|[{}](./docs/{})|'.format(ord_title[0], link, title, file)
             content += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
+
+    # emoji linking to REWRITE.md
     content += '  \n[:trollface:](./REWRITE.md)\n'
 
+    # write to README.md
     with open('./README.md', 'w', encoding='utf-8') as f:
         f.write(content)
