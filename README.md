@@ -1,5 +1,5 @@
 # LeetCode
-已完成29题  
+已完成30题
 |序号|标题|代码|
 |:-:|:-:|:-:|
 |[1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](./docs/1.两数之和.md)|[Python](./codes/1.两数之和.py)|
@@ -20,6 +20,7 @@
 |[21](https://leetcode-cn.com/problems/merge-two-sorted-lists/description/)|[合并两个有序链表](./docs/21.合并两个有序链表.md)|[C++](./codes/21.合并两个有序链表.cpp)|
 |[22](https://leetcode-cn.com/problems/generate-parentheses/description/)|[括号生成](./docs/22.括号生成.md)|[JavaScript](./codes/22.括号生成.js)|
 |[23](https://leetcode-cn.com/problems/merge-k-sorted-lists/description/)|[合并k个升序链表](./docs/23.合并k个升序链表.md)|[Java](./codes/23.合并k个升序链表.java)|
+|[28](https://leetcode-cn.com/problems/implement-strstr/description/)|[实现-str-str](./docs/28.实现-str-str.md)|[JavaScript](./codes/28.实现-str-str.js)|
 |[31](https://leetcode-cn.com/problems/next-permutation/description/)|[下一个排列](./docs/31.下一个排列.md)|[JavaScript](./codes/31.下一个排列.js)|
 |[32](https://leetcode-cn.com/problems/longest-valid-parentheses/description/)|[最长有效括号](./docs/32.最长有效括号.md)|[Python](./codes/32.最长有效括号.py)|
 |[33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/)|[搜索旋转排列数组](./docs/33.搜索旋转排列数组.md)|[JavaScript](./codes/33.搜索旋转排序数组.js)|

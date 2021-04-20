@@ -13,17 +13,22 @@ if __name__ == '__main__':
     all_solutions = os.listdir('./codes')
     
     # README.md
-    content = '# LeetCode\n已完成{}题  \n|序号|标题|代码|\n|:-:|:-:|:-:|\n'.format(len(all_markdowns))
+    readme = '# LeetCode\n已完成{}题\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'.format(len(all_markdowns))
+    rewrite = '# Rewrite\n[返回目录](./README.md)\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'
 
     # loop in order
     for file in all_markdowns:
 
         # get link from markdown files
         with open('./docs/' + file, 'r', encoding='utf-8') as f:
-            link = f.readlines()[7]
+            md = f.readlines()
+        link = md[7]
         if 'https://' not in link: print('ERROR: LeetCode link not found in line 8 of', file)
         link = link[link.find('https://')::].strip()
         print(link)
+
+        # whether this file is included in REWRITE.md
+        rewrite_flag = '[返回文件](../REWRITE.md)' in md[1]
 
         # get title
         ord_title = file.split('.')
@@ -36,12 +41,18 @@ if __name__ == '__main__':
         print(sols)
         # add lines
         for i, sol in enumerate(sols):
-            content += '|-|-|' if i != 0 else '|[{}]({})|[{}](./docs/{})|'.format(ord_title[0], link, title, file)
-            content += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
+            readme += '|-|-|' if i != 0 else '|[{}]({})|[{}](./docs/{})|'.format(ord_title[0], link, title, file)
+            readme += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
+            if rewrite_flag:
+                rewrite += '|-|-|' if i != 0 else '|[{}]({})|[{}](./docs/{})|'.format(ord_title[0], link, title, file)
+                rewrite += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
 
     # emoji linking to REWRITE.md
-    content += '  \n[:trollface:](./REWRITE.md)\n'
+    readme += '  \n[:trollface:](./REWRITE.md)\n'
 
     # write to README.md
     with open('./README.md', 'w', encoding='utf-8') as f:
-        f.write(content)
+        f.write(readme)
+    # write to REWRITE.md
+    with open('./REWRITE.md', 'w', encoding='utf-8') as f:
+        f.write(rewrite)
