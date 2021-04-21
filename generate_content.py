@@ -13,7 +13,7 @@ if __name__ == '__main__':
     all_solutions = os.listdir('./codes')
     
     # README.md
-    readme = '# LeetCode\n已完成{}题\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'.format(len(all_markdowns))
+    readme = '# LeetCode\n已完成{}题\n[:trollface:](./REWRITE.md)\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'.format(len(all_markdowns))
     rewrite = '# Rewrite\n[返回目录](./README.md)\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'
 
     # loop in order
@@ -46,9 +46,6 @@ if __name__ == '__main__':
             if rewrite_flag:
                 rewrite += '|-|-|' if i != 0 else '|[{}]({})|[{}](./docs/{})|'.format(ord_title[0], link, title, file)
                 rewrite += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
-
-    # emoji linking to REWRITE.md
-    readme += '  \n[:trollface:](./REWRITE.md)\n'
 
     # write to README.md
     with open('./README.md', 'w', encoding='utf-8') as f:

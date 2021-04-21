@@ -14,3 +14,4 @@
 |-|-|[Java](./codes/42.接雨水_2.java)|
 |[53](https://leetcode-cn.com/problems/maximum-subarray/description/)|[最大子序和](./docs/53.最大子序和.md)|[JavaScript](./codes/53.最大子序和_1.js)|
 |-|-|[JavaScript](./codes/53.最大子序和_2.js)|
+|[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|

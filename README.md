@@ -1,5 +1,6 @@
 # LeetCode
-已完成30题
+已完成31题
+[:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
 |[1](https://leetcode-cn.com/problems/two-sum/)|[两数之和](./docs/1.两数之和.md)|[Python](./codes/1.两数之和.py)|
@@ -38,5 +39,4 @@
 |[62](https://leetcode-cn.com/problems/unique-paths/description/)|[不同路径](./docs/62.不同路径.md)|[JavaScript](./codes/62.不同路径.js)|
 |[64](https://leetcode-cn.com/problems/minimum-path-sum/description/)|[最小路径和](./docs/64.最小路径和.md)|[JavaScript](./codes/64.最小路径和.js)|
 |[70](https://leetcode-cn.com/problems/climbing-stairs/description/)|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
-  
-[:trollface:](./REWRITE.md)
+|[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
