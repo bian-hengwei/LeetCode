@@ -1,5 +1,5 @@
 # LeetCode
-已完成31题
+已完成32题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -32,6 +32,8 @@
 |[46](https://leetcode-cn.com/problems/permutations/description/)|[全排列](./docs/46.全排列.md)|[Python](./codes/46.全排列.py)|
 |[48](https://leetcode-cn.com/problems/rotate-image/description/)|[旋转图像](./docs/48.旋转图像.md)|[C++](./codes/48.旋转图像.cpp)|
 |[49](https://leetcode-cn.com/problems/group-anagrams/description/)|[字母异位词分组](./docs/49.字母异位词分组.md)|[Java](./codes/49.字母异位词分组.java)|
+|[50](https://leetcode-cn.com/problems/powx-n/description/)|[pow-x-n](./docs/50.pow-x-n.md)|[JavaScript](./codes/50.pow-x-n_1.js)|
+|-|-|[JavaScript](./codes/50.pow-x-n_2.js)|
 |[53](https://leetcode-cn.com/problems/maximum-subarray/description/)|[最大子序和](./docs/53.最大子序和.md)|[JavaScript](./codes/53.最大子序和_1.js)|
 |-|-|[JavaScript](./codes/53.最大子序和_2.js)|
 |[55](https://leetcode-cn.com/problems/jump-game/description/)|[跳跃游戏](./docs/55.跳跃游戏.md)|[JavaScript](./codes/55.跳跃游戏.js)|
