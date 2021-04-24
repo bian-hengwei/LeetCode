@@ -5,7 +5,6 @@
  */
 
 // @lc code=start
-/* 2021/04/20 每日一题 */
 /**
  * @param {string} haystack
  * @param {string} needle

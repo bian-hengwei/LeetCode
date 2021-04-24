@@ -5,7 +5,6 @@
  */
 
 // @lc code=start
-/* 2021/04/21 每日一题 */
 /**
  * @param {string} s
  * @return {number}
