@@ -45,3 +45,10 @@
 |[368](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[最大整除子集](./docs/368.最大整除子集.md)|[C++](./codes/368.最大整除子集.cpp)|
 |[377](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[组合总和-ⅳ](./docs/377.组合总和-ⅳ.md)|[C++](./codes/377.组合总和-ⅳ.cpp)|
 |[897](https://leetcode-cn.com/problems/increasing-order-search-tree/description/)|[递增顺序查找树](./docs/897.递增顺序查找树.md)|[C++](./codes/897.递增顺序查找树.cpp)|
+## 语言统计
+|语言|题解|总数|
+|:-:|:-:|:-:|
+|[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|12|14|
+|[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|9|10|
+|[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|7|9|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|7|9|
