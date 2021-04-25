@@ -1,5 +1,5 @@
 # LeetCode
-已完成33题
+已完成35题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -43,3 +43,5 @@
 |[70](https://leetcode-cn.com/problems/climbing-stairs/description/)|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
 |[368](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[最大整除子集](./docs/368.最大整除子集.md)|[C++](./codes/368.最大整除子集.cpp)|
+|[377](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[组合总和-ⅳ](./docs/377.组合总和-ⅳ.md)|[C++](./codes/377.组合总和-ⅳ.cpp)|
+|[897](https://leetcode-cn.com/problems/increasing-order-search-tree/description/)|[递增顺序查找树](./docs/897.递增顺序查找树.md)|[C++](./codes/897.递增顺序查找树.cpp)|
