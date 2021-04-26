@@ -13,6 +13,7 @@ if __name__ == '__main__':
     # markdown file names (sorted)
     all_markdowns = os.listdir('./docs')
     all_markdowns.sort(key=lambda _: int(re.search('^(\d+)\..*\.md$', _)[1]))
+    
     # solution file names
     all_solutions = os.listdir('./codes')
     
@@ -37,6 +38,7 @@ if __name__ == '__main__':
         # get title
         ord_title = file.split('.')
         title = ord_title[1]
+
         # trim title
         if (len(title) > 10): title = title[:9] + '...'
 
@@ -64,6 +66,7 @@ if __name__ == '__main__':
     # write to README.md
     with open('./README.md', 'w', encoding='utf-8') as f:
         f.write(readme)
+
     # write to REWRITE.md
     with open('./REWRITE.md', 'w', encoding='utf-8') as f:
         f.write(rewrite)
