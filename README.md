@@ -1,5 +1,5 @@
 # LeetCode
-已完成36题
+已完成37题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -44,12 +44,13 @@
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
 |[368](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[最大整除子集](./docs/368.最大整除子集.md)|[C++](./codes/368.最大整除子集.cpp)|
 |[377](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[组合总和-ⅳ](./docs/377.组合总和-ⅳ.md)|[C++](./codes/377.组合总和-ⅳ.cpp)|
+|[633](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|[平方数之和](./docs/633.平方数之和.md)|[C++](./codes/633.平方数之和.cpp)|
 |[897](https://leetcode-cn.com/problems/increasing-order-search-tree/description/)|[递增顺序查找树](./docs/897.递增顺序查找树.md)|[C++](./codes/897.递增顺序查找树.cpp)|
 |[938](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[二叉搜索树的范围和](./docs/938.二叉搜索树的范围和.md)|[C++](./codes/938.二叉搜索树的范围和.cpp)|
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|12|14|
-|[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|10|11|
+|[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|11|12|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|7|9|
 |[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|7|9|

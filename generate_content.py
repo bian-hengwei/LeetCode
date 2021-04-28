@@ -11,6 +11,7 @@ if __name__ == '__main__':
     URLBASE = 'https://github.com/bian-hengwei/LeetCode/search?l='
 
     # markdown file names (sorted)
+    # re for ^(number).ANYSTRING.md$
     all_markdowns = os.listdir('./docs')
     all_markdowns.sort(key=lambda _: int(re.search('^(\d+)\..*\.md$', _)[1]))
     
@@ -18,7 +19,7 @@ if __name__ == '__main__':
     all_solutions = os.listdir('./codes')
     
     # README.md
-    readme = '# LeetCode\n已完成{}题\n[:trollface:](./REWRITE.md)\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'.format(len(all_markdowns))
+    readme = f'# LeetCode\n已完成{len(all_markdowns)}题\n[:trollface:](./REWRITE.md)\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'
     rewrite = '# Rewrite\n[返回目录](./README.md)\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'
 
     # loop in order
@@ -48,20 +49,21 @@ if __name__ == '__main__':
 
         # add lines
         for i, sol in enumerate(sols):
+            lang = LANGUAGES[sol.split('.')[2]]
             counts[sol.split('.')[2]][1] += 1
             if i == 0: counts[sol.split('.')[2]][0] += 1
-            readme += '|-|-|' if i != 0 else '|[{}]({})|[{}](./docs/{})|'.format(ord_title[0], link, title, file)
-            readme += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
+            readme += '|-|-|' if i != 0 else f'|[{ord_title[0]}]({link})|[{title}](./docs/{file})|'
+            readme += f'[{lang}](./codes/{sol})|\n'
             if rewrite_flag:
-                rewrite += '|-|-|' if i != 0 else '|[{}]({})|[{}](./docs/{})|'.format(ord_title[0], link, title, file)
-                rewrite += '[{}](./codes/{})|\n'.format(LANGUAGES[sol.split('.')[2]], sol)
+                rewrite += '|-|-|' if i != 0 else f'|[{ord_title[0]}]({link})|[{title}](./docs/{file})|'
+                rewrite += f'[{lang}](./codes/{sol})|\n'
     
     # languages stats table
     readme += '## 语言统计\n|语言|题解|总数|\n|:-:|:-:|:-:|\n'
     for lang in sorted(counts.items(), key=lambda item: item[1], reverse=True):
         print(lang)
-        if (lang[0] == 'py'): readme += '|[{}]({})|{}|{}|\n'.format(LANGUAGES[lang[0]], URLBASE + 'python', lang[1][0], lang[1][1])
-        else: readme += '|[{}]({})|{}|{}|\n'.format(LANGUAGES[lang[0]], URLBASE + lang[0], lang[1][0], lang[1][1])
+        if (lang[0] == 'py'): readme += f'|[{LANGUAGES[lang[0]]}]({URLBASE}python)|{lang[1][0]}|{lang[1][1]}|\n'
+        else: readme += f'|[{LANGUAGES[lang[0]]}]({URLBASE}{lang[0]})|{lang[1][0]}|{lang[1][1]}|\n'
 
     # write to README.md
     with open('./README.md', 'w', encoding='utf-8') as f:
