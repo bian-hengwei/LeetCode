@@ -47,6 +47,7 @@
 |[633](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|[平方数之和](./docs/633.平方数之和.md)|[C++](./codes/633.平方数之和.cpp)|
 |[897](https://leetcode-cn.com/problems/increasing-order-search-tree/description/)|[递增顺序查找树](./docs/897.递增顺序查找树.md)|[C++](./codes/897.递增顺序查找树.cpp)|
 |[938](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[二叉搜索树的范围和](./docs/938.二叉搜索树的范围和.md)|[C++](./codes/938.二叉搜索树的范围和.cpp)|
+
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
