@@ -1,5 +1,5 @@
 # LeetCode
-已完成39题
+已完成40题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -11,6 +11,7 @@
 |-|-|[C++](./codes/4.寻找两个正序数组的中位数_2.cpp)|
 |[5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[最长回文子串](./docs/5.最长回文子串.md)|[Python](./codes/5.最长回文子串_1.py)|
 |-|-|[Python](./codes/5.最长回文子串_2.py)|
+|[7](https://leetcode-cn.com/problems/reverse-integer/description/)|[整数反转](./docs/7.整数反转.md)|[Python](./codes/7.整数反转.py)|
 |[10](https://leetcode-cn.com/problems/regular-expression-matching/description/)|[正则表达式匹配](./docs/10.正则表达式匹配.md)|[Python](./codes/10.正则表达式匹配_1.py)|
 |-|-|[Python](./codes/10.正则表达式匹配_3.py)|
 |[11](https://leetcode-cn.com/problems/container-with-most-water/description/)|[盛最多水的容器](./docs/11.盛最多水的容器.md)|[C++](./codes/11.盛最多水的容器.cpp)|
@@ -49,11 +50,10 @@
 |[690](https://leetcode-cn.com/problems/employee-importance/description/)|[员工的重要性](./docs/690.员工的重要性.md)|[Python](./codes/690.员工的重要性.py)|
 |[897](https://leetcode-cn.com/problems/increasing-order-search-tree/description/)|[递增顺序查找树](./docs/897.递增顺序查找树.md)|[C++](./codes/897.递增顺序查找树.cpp)|
 |[938](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[二叉搜索树的范围和](./docs/938.二叉搜索树的范围和.md)|[C++](./codes/938.二叉搜索树的范围和.cpp)|
-
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|12|14|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|11|12|
-|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|9|11|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|10|12|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|7|9|
