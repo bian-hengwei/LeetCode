@@ -4,8 +4,8 @@ import re
 # 自动生成目录页
 if __name__ == '__main__':
     # languages names and counts dictionary
-    LANGUAGES = {'cpp': 'C++', 'java': 'Java', 'py': 'Python', 'js': 'JavaScript'}
-    counts = {'cpp': [0, 0], 'java': [0, 0], 'py': [0, 0], 'js': [0, 0]}
+    LANGUAGES = {'cpp': 'C++', 'java': 'Java', 'py': 'Python', 'js': 'JavaScript', 'sql': 'SQL'}
+    counts = {'cpp': [0, 0], 'java': [0, 0], 'py': [0, 0], 'js': [0, 0], 'sql': [0, 0]}
 
     # URL for searching
     URLBASE = 'https://github.com/bian-hengwei/LeetCode/search?l='

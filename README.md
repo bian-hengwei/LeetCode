@@ -1,5 +1,5 @@
 # LeetCode
-已完成40题
+已完成42题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -11,8 +11,10 @@
 |-|-|[C++](./codes/4.寻找两个正序数组的中位数_2.cpp)|
 |[5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[最长回文子串](./docs/5.最长回文子串.md)|[Python](./codes/5.最长回文子串_1.py)|
 |-|-|[Python](./codes/5.最长回文子串_2.py)|
+|-|-|[Python](./codes/5.最长回文子串_3.py)|
 |[7](https://leetcode-cn.com/problems/reverse-integer/description/)|[整数反转](./docs/7.整数反转.md)|[Python](./codes/7.整数反转.py)|
 |[10](https://leetcode-cn.com/problems/regular-expression-matching/description/)|[正则表达式匹配](./docs/10.正则表达式匹配.md)|[Python](./codes/10.正则表达式匹配_1.py)|
+|-|-|[Python](./codes/10.正则表达式匹配_2.py)|
 |-|-|[Python](./codes/10.正则表达式匹配_3.py)|
 |[11](https://leetcode-cn.com/problems/container-with-most-water/description/)|[盛最多水的容器](./docs/11.盛最多水的容器.md)|[C++](./codes/11.盛最多水的容器.cpp)|
 |[15](https://leetcode-cn.com/problems/3sum/description/)|[三数之和](./docs/15.三数之和.md)|[Java](./codes/15.三数之和.java)|
@@ -42,7 +44,9 @@
 |[62](https://leetcode-cn.com/problems/unique-paths/description/)|[不同路径](./docs/62.不同路径.md)|[JavaScript](./codes/62.不同路径.js)|
 |[64](https://leetcode-cn.com/problems/minimum-path-sum/description/)|[最小路径和](./docs/64.最小路径和.md)|[JavaScript](./codes/64.最小路径和.js)|
 |[70](https://leetcode-cn.com/problems/climbing-stairs/description/)|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
+|[72](https://leetcode-cn.com/problems/edit-distance/description/)|[编辑距离](./docs/72.编辑距离.md)|[JavaScript](./codes/72.编辑距离.js)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
+|[175](https://leetcode-cn.com/problems/combine-two-tables/description/)|[组合两个表](./docs/175.组合两个表.md)|[SQL](./codes/175.组合两个表.sql)|
 |[368](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[最大整除子集](./docs/368.最大整除子集.md)|[C++](./codes/368.最大整除子集.cpp)|
 |[377](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[组合总和-ⅳ](./docs/377.组合总和-ⅳ.md)|[C++](./codes/377.组合总和-ⅳ.cpp)|
 |[554](https://leetcode-cn.com/problems/brick-wall/description/)|[砖墙](./docs/554.砖墙.md)|[Python](./codes/554.砖墙.py)|
@@ -53,7 +57,8 @@
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
-|[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|12|14|
+|[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|13|15|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|11|12|
-|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|10|12|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|10|14|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|7|9|
+|[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|

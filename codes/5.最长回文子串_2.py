@@ -8,13 +8,12 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         # {character: [appearances]}
-        d = {}
-        for (i, c) in enumerate(s):
-            if c not in d:
-                d[c] = []
+        d = dict()
+        for i, c in enumerate(s):
+            d[c] = d.get(c, [])
             d[c].append(i)
         best = s[0]
-        for (i, c) in enumerate(s):
+        for i, c in enumerate(s):
             # search for palindromes at each index
             for j in range(len(d[c])-1, 0, -1):
                 if d[c][j] == i: break

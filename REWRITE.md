@@ -5,6 +5,7 @@
 |[4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/)|[寻找两个正序数组的...](./docs/4.寻找两个正序数组的中位数.md)|[C++](./codes/4.寻找两个正序数组的中位数_1.cpp)|
 |-|-|[C++](./codes/4.寻找两个正序数组的中位数_2.cpp)|
 |[10](https://leetcode-cn.com/problems/regular-expression-matching/description/)|[正则表达式匹配](./docs/10.正则表达式匹配.md)|[Python](./codes/10.正则表达式匹配_1.py)|
+|-|-|[Python](./codes/10.正则表达式匹配_2.py)|
 |-|-|[Python](./codes/10.正则表达式匹配_3.py)|
 |[15](https://leetcode-cn.com/problems/3sum/description/)|[三数之和](./docs/15.三数之和.md)|[Java](./codes/15.三数之和.java)|
 |[22](https://leetcode-cn.com/problems/generate-parentheses/description/)|[括号生成](./docs/22.括号生成.md)|[JavaScript](./codes/22.括号生成.js)|
@@ -14,5 +15,6 @@
 |-|-|[Java](./codes/42.接雨水_2.java)|
 |[53](https://leetcode-cn.com/problems/maximum-subarray/description/)|[最大子序和](./docs/53.最大子序和.md)|[JavaScript](./codes/53.最大子序和_1.js)|
 |-|-|[JavaScript](./codes/53.最大子序和_2.js)|
+|[72](https://leetcode-cn.com/problems/edit-distance/description/)|[编辑距离](./docs/72.编辑距离.md)|[JavaScript](./codes/72.编辑距离.js)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
 |[368](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[最大整除子集](./docs/368.最大整除子集.md)|[C++](./codes/368.最大整除子集.cpp)|
