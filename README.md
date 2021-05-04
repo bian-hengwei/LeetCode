@@ -1,5 +1,5 @@
 # LeetCode
-已完成46题
+已完成47题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -54,6 +54,7 @@
 |[554](https://leetcode-cn.com/problems/brick-wall/description/)|[砖墙](./docs/554.砖墙.md)|[Python](./codes/554.砖墙.py)|
 |[633](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|[平方数之和](./docs/633.平方数之和.md)|[C++](./codes/633.平方数之和.cpp)|
 |[690](https://leetcode-cn.com/problems/employee-importance/description/)|[员工的重要性](./docs/690.员工的重要性.md)|[Python](./codes/690.员工的重要性.py)|
+|[740](https://leetcode-cn.com/problems/delete-and-earn/description/)|[删除与获得点数](./docs/740.删除与获得点数.md)|[Python](./codes/740.删除与获得点数.py)|
 |[897](https://leetcode-cn.com/problems/increasing-order-search-tree/description/)|[递增顺序查找树](./docs/897.递增顺序查找树.md)|[C++](./codes/897.递增顺序查找树.cpp)|
 |[938](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[二叉搜索树的范围和](./docs/938.二叉搜索树的范围和.md)|[C++](./codes/938.二叉搜索树的范围和.cpp)|
 |[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/description/)|[在-d-天内送达包...](./docs/1011.在-d-天内送达包裹的能力.md)|[Java](./codes/1011.在-d-天内送达包裹的能力.java)|
@@ -63,6 +64,6 @@
 |:-:|:-:|:-:|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|13|15|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|13|14|
-|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|11|15|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|12|16|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|8|10|
 |[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|
