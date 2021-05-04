@@ -18,3 +18,4 @@
 |[72](https://leetcode-cn.com/problems/edit-distance/description/)|[编辑距离](./docs/72.编辑距离.md)|[JavaScript](./codes/72.编辑距离.js)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
 |[368](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[最大整除子集](./docs/368.最大整除子集.md)|[C++](./codes/368.最大整除子集.cpp)|
+|[1473](https://leetcode-cn.com/problems/paint-house-iii/description/)|[粉刷房子-iii](./docs/1473.粉刷房子-iii.md)|[Python](./codes/1473.粉刷房子-iii.py)|
