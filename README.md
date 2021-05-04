@@ -1,5 +1,5 @@
 # LeetCode
-已完成44题
+已完成45题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -47,6 +47,7 @@
 |[72](https://leetcode-cn.com/problems/edit-distance/description/)|[编辑距离](./docs/72.编辑距离.md)|[JavaScript](./codes/72.编辑距离.js)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
 |[136](https://leetcode-cn.com/problems/single-number/description/)|[只出现一次的数字](./docs/136.只出现一次的数字.md)|[C++](./codes/136.只出现一次的数字.cpp)|
+|[137](https://leetcode-cn.com/problems/single-number-ii/description/)|[只出现一次的数字-...](./docs/137.只出现一次的数字-ii.md)|[C++](./codes/137.只出现一次的数字-ii.cpp)|
 |[175](https://leetcode-cn.com/problems/combine-two-tables/description/)|[组合两个表](./docs/175.组合两个表.md)|[SQL](./codes/175.组合两个表.sql)|
 |[368](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[最大整除子集](./docs/368.最大整除子集.md)|[C++](./codes/368.最大整除子集.cpp)|
 |[377](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[组合总和-ⅳ](./docs/377.组合总和-ⅳ.md)|[C++](./codes/377.组合总和-ⅳ.cpp)|
@@ -60,7 +61,7 @@
 |语言|题解|总数|
 |:-:|:-:|:-:|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|13|15|
-|[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|12|13|
+|[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|13|14|
 |[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|11|15|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|7|9|
 |[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|
