@@ -1,5 +1,5 @@
 # LeetCode
-已完成50题
+已完成51题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -62,11 +62,12 @@
 |[938](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[二叉搜索树的范围和](./docs/938.二叉搜索树的范围和.md)|[C++](./codes/938.二叉搜索树的范围和.cpp)|
 |[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/description/)|[在-d-天内送达包...](./docs/1011.在-d-天内送达包裹的能力.md)|[Java](./codes/1011.在-d-天内送达包裹的能力.java)|
 |[1473](https://leetcode-cn.com/problems/paint-house-iii/description/)|[粉刷房子-iii](./docs/1473.粉刷房子-iii.md)|[Python](./codes/1473.粉刷房子-iii.py)|
+|[1720](https://leetcode-cn.com/problems/decode-xored-array/description/)|[解码异或后的数组](./docs/1720.解码异或后的数组.md)|[Python](./codes/1720.解码异或后的数组.py)|
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|14|16|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|13|17|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|13|14|
-|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|12|16|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|10|12|
 |[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|
