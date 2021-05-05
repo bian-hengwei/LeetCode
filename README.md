@@ -45,6 +45,7 @@
 |[64](https://leetcode-cn.com/problems/minimum-path-sum/description/)|[最小路径和](./docs/64.最小路径和.md)|[JavaScript](./codes/64.最小路径和.js)|
 |[70](https://leetcode-cn.com/problems/climbing-stairs/description/)|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
 |[72](https://leetcode-cn.com/problems/edit-distance/description/)|[编辑距离](./docs/72.编辑距离.md)|[JavaScript](./codes/72.编辑距离.js)|
+|[75](https://leetcode-cn.com/problems/sort-colors/description/)|[颜色分类](./docs/75.颜色分类.md)|[JavaScript](./codes/75.颜色分类.js)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
 |[136](https://leetcode-cn.com/problems/single-number/description/)|[只出现一次的数字](./docs/136.只出现一次的数字.md)|[C++](./codes/136.只出现一次的数字.cpp)|
 |[137](https://leetcode-cn.com/problems/single-number-ii/description/)|[只出现一次的数字-...](./docs/137.只出现一次的数字-ii.md)|[C++](./codes/137.只出现一次的数字-ii.cpp)|
@@ -64,7 +65,7 @@
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
-|[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|13|15|
+|[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|14|16|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|13|14|
 |[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|12|16|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|10|12|
