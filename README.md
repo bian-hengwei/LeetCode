@@ -1,5 +1,5 @@
 # LeetCode
-已完成49题
+已完成50题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
