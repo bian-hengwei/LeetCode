@@ -11,7 +11,7 @@ if __name__ == '__main__':
     URLBASE = 'https://github.com/bian-hengwei/LeetCode/search?l='
 
     # markdown file names (sorted)
-    # re for ^(number).ANYSTRING.md$
+    # re for (number).ANYSTRING.md
     all_markdowns = os.listdir('./docs')
     all_markdowns.sort(key=lambda _: int(re.search('^(\d+)\..*\.md$', _)[1]))
     

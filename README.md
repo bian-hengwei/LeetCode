@@ -1,5 +1,5 @@
 # LeetCode
-已完成47题
+已完成49题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -49,8 +49,10 @@
 |[136](https://leetcode-cn.com/problems/single-number/description/)|[只出现一次的数字](./docs/136.只出现一次的数字.md)|[C++](./codes/136.只出现一次的数字.cpp)|
 |[137](https://leetcode-cn.com/problems/single-number-ii/description/)|[只出现一次的数字-...](./docs/137.只出现一次的数字-ii.md)|[C++](./codes/137.只出现一次的数字-ii.cpp)|
 |[175](https://leetcode-cn.com/problems/combine-two-tables/description/)|[组合两个表](./docs/175.组合两个表.md)|[SQL](./codes/175.组合两个表.sql)|
+|[363](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/description/)|[矩形区域不超过-k...](./docs/363.矩形区域不超过-k-的最大数值和.md)|[Java](./codes/363.矩形区域不超过-k-的最大数值和.java)|
 |[368](https://leetcode-cn.com/problems/largest-divisible-subset/description/)|[最大整除子集](./docs/368.最大整除子集.md)|[C++](./codes/368.最大整除子集.cpp)|
 |[377](https://leetcode-cn.com/problems/combination-sum-iv/description/)|[组合总和-ⅳ](./docs/377.组合总和-ⅳ.md)|[C++](./codes/377.组合总和-ⅳ.cpp)|
+|[403](https://leetcode-cn.com/problems/frog-jump/description/)|[青蛙过河](./docs/403.青蛙过河.md)|[Java](./codes/403.青蛙过河.java)|
 |[554](https://leetcode-cn.com/problems/brick-wall/description/)|[砖墙](./docs/554.砖墙.md)|[Python](./codes/554.砖墙.py)|
 |[633](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)|[平方数之和](./docs/633.平方数之和.md)|[C++](./codes/633.平方数之和.cpp)|
 |[690](https://leetcode-cn.com/problems/employee-importance/description/)|[员工的重要性](./docs/690.员工的重要性.md)|[Python](./codes/690.员工的重要性.py)|
@@ -65,5 +67,5 @@
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|13|15|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|13|14|
 |[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|12|16|
-|[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|8|10|
+|[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|10|12|
 |[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|
