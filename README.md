@@ -1,5 +1,5 @@
 # LeetCode
-已完成51题
+已完成52题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -46,6 +46,7 @@
 |[70](https://leetcode-cn.com/problems/climbing-stairs/description/)|[爬楼梯](./docs/70.爬楼梯.md)|[JavaScript](./codes/70.爬楼梯.js)|
 |[72](https://leetcode-cn.com/problems/edit-distance/description/)|[编辑距离](./docs/72.编辑距离.md)|[JavaScript](./codes/72.编辑距离.js)|
 |[75](https://leetcode-cn.com/problems/sort-colors/description/)|[颜色分类](./docs/75.颜色分类.md)|[JavaScript](./codes/75.颜色分类.js)|
+|[76](https://leetcode-cn.com/problems/minimum-window-substring/description/)|[最小覆盖子串](./docs/76.最小覆盖子串.md)|[Java](./codes/76.最小覆盖子串.java)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
 |[136](https://leetcode-cn.com/problems/single-number/description/)|[只出现一次的数字](./docs/136.只出现一次的数字.md)|[C++](./codes/136.只出现一次的数字.cpp)|
 |[137](https://leetcode-cn.com/problems/single-number-ii/description/)|[只出现一次的数字-...](./docs/137.只出现一次的数字-ii.md)|[C++](./codes/137.只出现一次的数字-ii.cpp)|
@@ -69,5 +70,5 @@
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|14|16|
 |[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|13|17|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|13|14|
-|[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|10|12|
+|[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|11|13|
 |[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|
