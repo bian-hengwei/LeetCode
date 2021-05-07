@@ -1,5 +1,5 @@
 # LeetCode
-已完成55题
+已完成56题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -32,6 +32,7 @@
 |[39](https://leetcode-cn.com/problems/combination-sum/description/)|[组合总和](./docs/39.组合总和.md)|[Java](./codes/39.组合总和.java)|
 |[42](https://leetcode-cn.com/problems/trapping-rain-water/description/)|[接雨水](./docs/42.接雨水.md)|[Java](./codes/42.接雨水_1.java)|
 |-|-|[Java](./codes/42.接雨水_2.java)|
+|[44](https://leetcode-cn.com/problems/wildcard-matching/description/)|[通配符匹配](./docs/44.通配符匹配.md)|[C++](./codes/44.通配符匹配.cpp)|
 |[46](https://leetcode-cn.com/problems/permutations/description/)|[全排列](./docs/46.全排列.md)|[Python](./codes/46.全排列.py)|
 |[48](https://leetcode-cn.com/problems/rotate-image/description/)|[旋转图像](./docs/48.旋转图像.md)|[C++](./codes/48.旋转图像.cpp)|
 |[49](https://leetcode-cn.com/problems/group-anagrams/description/)|[字母异位词分组](./docs/49.字母异位词分组.md)|[Java](./codes/49.字母异位词分组.java)|
@@ -72,6 +73,6 @@
 |:-:|:-:|:-:|
 |[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|14|18|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|14|16|
+|[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|14|15|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|13|15|
-|[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|13|14|
 |[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|
