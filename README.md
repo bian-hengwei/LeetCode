@@ -1,5 +1,5 @@
 # LeetCode
-已完成56题
+已完成57题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -68,10 +68,11 @@
 |[1473](https://leetcode-cn.com/problems/paint-house-iii/description/)|[粉刷房子-iii](./docs/1473.粉刷房子-iii.md)|[Python](./codes/1473.粉刷房子-iii.py)|
 |[1486](https://leetcode-cn.com/problems/xor-operation-in-an-array/description/)|[数组异或操作](./docs/1486.数组异或操作.md)|[Java](./codes/1486.数组异或操作.java)|
 |[1720](https://leetcode-cn.com/problems/decode-xored-array/description/)|[解码异或后的数组](./docs/1720.解码异或后的数组.md)|[Python](./codes/1720.解码异或后的数组.py)|
+|[1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/description/)|[完成所有工作的最短...](./docs/1723.完成所有工作的最短时间.md)|[Python](./codes/1723.完成所有工作的最短时间.py)|
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
-|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|14|18|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|15|19|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|14|16|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|14|15|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|13|15|

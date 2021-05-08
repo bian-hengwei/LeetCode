@@ -24,3 +24,4 @@
 |[403](https://leetcode-cn.com/problems/frog-jump/description/)|[青蛙过河](./docs/403.青蛙过河.md)|[Java](./codes/403.青蛙过河.java)|
 |[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/description/)|[在-d-天内送达包...](./docs/1011.在-d-天内送达包裹的能力.md)|[Java](./codes/1011.在-d-天内送达包裹的能力.java)|
 |[1473](https://leetcode-cn.com/problems/paint-house-iii/description/)|[粉刷房子-iii](./docs/1473.粉刷房子-iii.md)|[Python](./codes/1473.粉刷房子-iii.py)|
+|[1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/description/)|[完成所有工作的最短...](./docs/1723.完成所有工作的最短时间.md)|[Python](./codes/1723.完成所有工作的最短时间.py)|
