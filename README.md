@@ -1,5 +1,5 @@
 # LeetCode
-已完成57题
+已完成58题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -66,6 +66,7 @@
 |[938](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[二叉搜索树的范围和](./docs/938.二叉搜索树的范围和.md)|[C++](./codes/938.二叉搜索树的范围和.cpp)|
 |[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/description/)|[在-d-天内送达包...](./docs/1011.在-d-天内送达包裹的能力.md)|[Java](./codes/1011.在-d-天内送达包裹的能力.java)|
 |[1473](https://leetcode-cn.com/problems/paint-house-iii/description/)|[粉刷房子-iii](./docs/1473.粉刷房子-iii.md)|[Python](./codes/1473.粉刷房子-iii.py)|
+|[1482](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)|[制作-m-束花所需...](./docs/1482.制作-m-束花所需的最少天数.md)|[JavaScript](./codes/1482.制作-m-束花所需的最少天数.js)|
 |[1486](https://leetcode-cn.com/problems/xor-operation-in-an-array/description/)|[数组异或操作](./docs/1486.数组异或操作.md)|[Java](./codes/1486.数组异或操作.java)|
 |[1720](https://leetcode-cn.com/problems/decode-xored-array/description/)|[解码异或后的数组](./docs/1720.解码异或后的数组.md)|[Python](./codes/1720.解码异或后的数组.py)|
 |[1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/description/)|[完成所有工作的最短...](./docs/1723.完成所有工作的最短时间.md)|[Python](./codes/1723.完成所有工作的最短时间.py)|
@@ -73,7 +74,7 @@
 |语言|题解|总数|
 |:-:|:-:|:-:|
 |[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|15|19|
-|[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|14|16|
+|[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|15|17|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|14|15|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|13|15|
 |[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|
