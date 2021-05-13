@@ -1,5 +1,5 @@
 # LeetCode
-已完成61题
+已完成62题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -66,6 +66,7 @@
 |[897](https://leetcode-cn.com/problems/increasing-order-search-tree/description/)|[递增顺序查找树](./docs/897.递增顺序查找树.md)|[C++](./codes/897.递增顺序查找树.cpp)|
 |[938](https://leetcode-cn.com/problems/range-sum-of-bst/description/)|[二叉搜索树的范围和](./docs/938.二叉搜索树的范围和.md)|[C++](./codes/938.二叉搜索树的范围和.cpp)|
 |[1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/description/)|[在-d-天内送达包...](./docs/1011.在-d-天内送达包裹的能力.md)|[Java](./codes/1011.在-d-天内送达包裹的能力.java)|
+|[1269](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/description/)|[停在原地的方案数](./docs/1269.停在原地的方案数.md)|[Python](./codes/1269.停在原地的方案数.py)|
 |[1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/description/)|[子数组异或查询](./docs/1310.子数组异或查询.md)|[Python](./codes/1310.子数组异或查询.py)|
 |[1473](https://leetcode-cn.com/problems/paint-house-iii/description/)|[粉刷房子-iii](./docs/1473.粉刷房子-iii.md)|[Python](./codes/1473.粉刷房子-iii.py)|
 |[1482](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)|[制作-m-束花所需...](./docs/1482.制作-m-束花所需的最少天数.md)|[JavaScript](./codes/1482.制作-m-束花所需的最少天数.js)|
@@ -76,7 +77,7 @@
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
-|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|16|20|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|17|21|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|15|17|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|15|16|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|14|16|
