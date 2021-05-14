@@ -1,5 +1,5 @@
 # LeetCode
-已完成63题
+已完成65题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -18,6 +18,7 @@
 |-|-|[Python](./codes/10.正则表达式匹配_3.py)|
 |[11](https://leetcode-cn.com/problems/container-with-most-water/description/)|[盛最多水的容器](./docs/11.盛最多水的容器.md)|[C++](./codes/11.盛最多水的容器.cpp)|
 |[12](https://leetcode-cn.com/problems/integer-to-roman/description/)|[整数转罗马数字](./docs/12.整数转罗马数字.md)|[Python](./codes/12.整数转罗马数字.py)|
+|[13](https://leetcode-cn.com/problems/roman-to-integer/description/)|[罗马数字转整数](./docs/13.罗马数字转整数.md)|[Python](./codes/13.罗马数字转整数.py)|
 |[15](https://leetcode-cn.com/problems/3sum/description/)|[三数之和](./docs/15.三数之和.md)|[Java](./codes/15.三数之和.java)|
 |[17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)|[电话号码的字母组合](./docs/17.电话号码的字母组合.md)|[Python](./codes/17.电话号码的字母组合.py)|
 |[19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/)|[删除链表的倒数第-...](./docs/19.删除链表的倒数第-n-个结点.md)|[C++](./codes/19.删除链表的倒数第-n-个结点.cpp)|
@@ -51,6 +52,8 @@
 |[76](https://leetcode-cn.com/problems/minimum-window-substring/description/)|[最小覆盖子串](./docs/76.最小覆盖子串.md)|[Java](./codes/76.最小覆盖子串.java)|
 |[78](https://leetcode-cn.com/problems/subsets/description/)|[子集](./docs/78.子集.md)|[Python](./codes/78.子集.py)|
 |[79](https://leetcode-cn.com/problems/word-search/description/)|[单词搜索](./docs/79.单词搜索.md)|[Java](./codes/79.单词搜索.java)|
+|[84](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/description/)|[柱状图中最大的矩形](./docs/84.柱状图中最大的矩形.md)|[Java](./codes/84.柱状图中最大的矩形_1.java)|
+|-|-|[Java](./codes/84.柱状图中最大的矩形_2.java)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
 |[136](https://leetcode-cn.com/problems/single-number/description/)|[只出现一次的数字](./docs/136.只出现一次的数字.md)|[C++](./codes/136.只出现一次的数字.cpp)|
 |[137](https://leetcode-cn.com/problems/single-number-ii/description/)|[只出现一次的数字-...](./docs/137.只出现一次的数字-ii.md)|[C++](./codes/137.只出现一次的数字-ii.cpp)|
@@ -78,8 +81,8 @@
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
-|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|18|22|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|19|23|
+|[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|15|18|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|15|17|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|15|16|
-|[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|14|16|
 |[SQL](https://github.com/bian-hengwei/LeetCode/search?l=sql)|1|1|
