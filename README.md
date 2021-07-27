@@ -1,5 +1,5 @@
 # LeetCode
-已完成65题
+已完成66题
 [:trollface:](./REWRITE.md)
 |序号|标题|代码|
 |:-:|:-:|:-:|
@@ -55,6 +55,7 @@
 |[84](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/description/)|[柱状图中最大的矩形](./docs/84.柱状图中最大的矩形.md)|[Java](./codes/84.柱状图中最大的矩形_1.java)|
 |-|-|[Java](./codes/84.柱状图中最大的矩形_2.java)|
 |[91](https://leetcode-cn.com/problems/decode-ways/description/)|[解码方法](./docs/91.解码方法.md)|[JavaScript](./codes/91.解码方法.js)|
+|[98](https://leetcode-cn.com/problems/validate-binary-search-tree/description/)|[验证二叉搜索树](./docs/98.验证二叉搜索树.md)|[Python](./codes/98.验证二叉搜索树.py)|
 |[136](https://leetcode-cn.com/problems/single-number/description/)|[只出现一次的数字](./docs/136.只出现一次的数字.md)|[C++](./codes/136.只出现一次的数字.cpp)|
 |[137](https://leetcode-cn.com/problems/single-number-ii/description/)|[只出现一次的数字-...](./docs/137.只出现一次的数字-ii.md)|[C++](./codes/137.只出现一次的数字-ii.cpp)|
 |[175](https://leetcode-cn.com/problems/combine-two-tables/description/)|[组合两个表](./docs/175.组合两个表.md)|[SQL](./codes/175.组合两个表.sql)|
@@ -81,7 +82,7 @@
 ## 语言统计
 |语言|题解|总数|
 |:-:|:-:|:-:|
-|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|19|23|
+|[Python](https://github.com/bian-hengwei/LeetCode/search?l=python)|20|24|
 |[Java](https://github.com/bian-hengwei/LeetCode/search?l=java)|15|18|
 |[JavaScript](https://github.com/bian-hengwei/LeetCode/search?l=js)|15|17|
 |[C++](https://github.com/bian-hengwei/LeetCode/search?l=cpp)|15|16|

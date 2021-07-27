@@ -23,7 +23,7 @@ if __name__ == '__main__':
     rewrite = '# Rewrite\n[返回目录](./README.md)\n|序号|标题|代码|\n|:-:|:-:|:-:|\n'
 
     # loop in order
-    for file in all_markdowns:
+    for file_idx, file in enumerate(all_markdowns):
 
         # get link from markdown files
         with open('./docs/' + file, 'r', encoding='utf-8') as f:
@@ -31,7 +31,6 @@ if __name__ == '__main__':
         link = md[7]
         if 'https://' not in link: print('ERROR: LeetCode link not found in line 8 of', file)
         link = link[link.find('https://')::].strip()
-        print(link)
 
         # whether this file is included in REWRITE.md
         rewrite_flag = '[返回文件](../REWRITE.md)' in md[1]
@@ -45,7 +44,7 @@ if __name__ == '__main__':
 
         # get solution sorted according to solution index
         sols = sorted([sol for sol in all_solutions if sol.split('.')[0] == ord_title[0]])
-        print(sols)
+        print(file_idx + 1, sols)
 
         # add lines
         for i, sol in enumerate(sols):
